@@ -1,4 +1,4 @@
-# ![icon](./icon.jpg)   Open-with-mobile
+# ![icon](./icon.png)   Open-with-mobile
 
 
 
